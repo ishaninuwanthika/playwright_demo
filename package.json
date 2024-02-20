@@ -1,0 +1,25 @@
+{
+  "name": "playwright_demo",
+  "version": "1.0.0",
+  "description": "Playwright  - end-to-end testing . supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaninuwanthika/playwright_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaninuwanthika/playwright_demo/issues"
+  },
+  "homepage": "https://github.com/ishaninuwanthika/playwright_demo#readme",
+  "dependencies": {
+    "playwright": "^1.41.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.19"
+  }
+}
